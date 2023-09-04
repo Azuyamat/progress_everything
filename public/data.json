@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Until Unix 2038 Bug",
+    "start": 0,
+    "end": 2147483647000
+  },
+  {
+    "id": 2,
+    "title": "Next Minute",
+    "start": 1,
+    "end": 0,
+    "dif": 60000
+  },
+  {
+    "id": 3,
+    "title": "Next Hour",
+    "start": 2,
+    "end": 0,
+    "dif": 3600000
+  },
+  {
+    "id": 4,
+    "title": "Next Day",
+    "start": 3,
+    "end": 0,
+    "dif": 86400000
+  },
+  {
+  "id": 6,
+  "title": "Next Year",
+  "start": 1672531200000,
+  "end": 1704067200000
+  }
+]
